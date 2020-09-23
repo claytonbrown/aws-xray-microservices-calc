@@ -9,7 +9,7 @@
     "aws-xray-sdk": "^1.0.6-beta",
     "body-parser": "~1.0.1",
     "express": "~4.0.0",
-    "mongoose": "~3.6.13",
+    "mongoose": "~5.10.6",
     "request": "^2.81.0",
     "request-promise": "^4.2.0",
     "shortid": "^2.2.8",
